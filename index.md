@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "hbh's blog"
+  name: "kkup's blog"
   text: "一个写博客的地方"
 
 
