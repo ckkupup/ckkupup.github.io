@@ -8,7 +8,7 @@ const DEV = inject('DEV') as Ref<boolean>
   <img
     v-if="!DEV"
     class="visitor"
-    src="https://visitor-badge.laobi.icu/badge?page_id=huangbohang.huangbohang.github.io"
+    src="https://visitor-badge.laobi.icu/badge?page_id=ckkupup.ckkupup.github.io"
     onerror="this.style.display='none'"
   />
 </template>

@@ -180,13 +180,13 @@ export interface deleteParam {
 ```
 stderr: App threw an error during load
 
-stderr: Error: Could not dynamically require "/Users/huangbohang/Documents/s/Posttool/build/node_sqlite3.node". Please configure the dynamicRequireTargets or/and ignoreDynamicRequires option of @rollup/plugin-commonjs appropriately for this require call to work.
+stderr: Error: Could not dynamically require "/Users/ckkupup/Documents/s/Posttool/build/node_sqlite3.node". Please configure the dynamicRequireTargets or/and ignoreDynamicRequires option of @rollup/plugin-commonjs appropriately for this require call to work.
 
-at se (/Users/huangbohang/Documents/s/Posttool/dist/main/index.cjs:1:5994)
+at se (/Users/ckkupup/Documents/s/Posttool/dist/main/index.cjs:1:5994)
 
-at w (/Users/huangbohang/Documents/s/Posttool/dist/main/index.cjs:1:8145)
+at w (/Users/ckkupup/Documents/s/Posttool/dist/main/index.cjs:1:8145)
 
-at Module.<anonymous> (/Users/huangbohang/Documents/s/Posttool/dist/main/index.cjs:3:717)
+at Module.<anonymous> (/Users/ckkupup/Documents/s/Posttool/dist/main/index.cjs:3:717)
 
 at Module._compile (node:internal/modules/cjs/loader:1141:14)
 
@@ -198,9 +198,9 @@ at Module._load (node:internal/modules/cjs/loader:846:12)
 
 at f._load (node:electron/js2c/asar_bundle:2:13377)
 
-at loadApplicationPackage (/Users/huangbohang/Documents/s/Posttool/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js:121:16)
+at loadApplicationPackage (/Users/ckkupup/Documents/s/Posttool/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js:121:16)
 
-at Object.<anonymous> (/Users/huangbohang/Documents/s/Posttool/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js:233:9)
+at Object.<anonymous> (/Users/ckkupup/Documents/s/Posttool/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js:233:9)
 ```
 
 解决方法：笔者用的 vite 的模式构建，在 vite.config.ts 中修改 build 相关配置，将`sqlite3`添加至`external`

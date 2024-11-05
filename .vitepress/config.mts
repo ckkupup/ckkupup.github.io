@@ -12,7 +12,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "黄博航的博客,huangbohang's Blog,huangbohang,huangbohang,huangbohang,黄博航,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
+          "程康康的博客,ckkupup's Blog,ckkupup,ckkupup,ckkupup,程康康,徐涛涛,徐涛,blog,Blog,技术博客,博客,个人博客,技术总结,问题解析,个人成长,前端,JavaScript,Vue,React,网络,Electron,Node.js,TypeScript,Rust",
       },
     ],
     [
@@ -54,7 +54,7 @@ export default defineConfig({
     ],
   ],
   transformPageData(pageData) {
-    const canonicalUrl = `https://huangbohangxu.com/${pageData.relativePath}`
+    const canonicalUrl = `https://ckkupupxu.com/${pageData.relativePath}`
       .replace(/index\.md$/, "")
       .replace(/\.md$/, ".html");
 
@@ -67,10 +67,10 @@ export default defineConfig({
   appearance: "dark",
   lastUpdated: true,
   title: "技术总结备忘录",
-  titleTemplate: "黄博航的博客",
-  description: "黄博航的博客,huangbohang's Blog,",
+  titleTemplate: "程康康的博客",
+  description: "程康康的博客,ckkupup's Blog,",
   themeConfig: {
-    siteTitle: "黄博航的博客",
+    siteTitle: "程康康的博客",
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: "local",
@@ -80,20 +80,6 @@ export default defineConfig({
       { text: "问题收纳", link: "/summary/", activeMatch: "^/summary/" },
       { text: "前端知识点", link: "/question/", activeMatch: "^/question/" },
       { text: "简易Demo", link: "/demo/", activeMatch: "^/demo/" },
-
-      {
-        text: "开源项目",
-        items: [
-          {
-            text: "页面导出word",
-            link: "https://github.com/huangbohang/export-word",
-          },
-          {
-            text: "飞书插件",
-            link: "https://github.com/huangbohang/donwload-files",
-          },
-        ],
-      },
       { text: "关于我", link: "/about/", activeMatch: "^/about/" },
     ],
 
@@ -337,6 +323,6 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/huangbohang" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/ckkupup" }],
   },
 });

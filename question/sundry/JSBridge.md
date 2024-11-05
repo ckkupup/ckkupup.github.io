@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: JSBridge原理简析
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 
 # JSBridge原理简析

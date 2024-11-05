@@ -1,9 +1,9 @@
 {
-  "name": "huangbohang-blog",
-  "title": "huangbohang Blog",
+  "name": "ckkupup-blog",
+  "title": "ckkupup Blog",
   "version": "2.0.0",
-  "homepage": "https://huangbohang.github.io",
-  "description": "huangbohang Blog",
+  "homepage": "https://ckkupup.github.io",
+  "description": "ckkupup Blog",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
@@ -11,7 +11,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "author": "huangbohang",
+  "author": "ckkupup",
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.77.8",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/huangbohang/huangbohang.github.io"
+    "url": "https://github.com/ckkupup/ckkupup.github.io"
   },
   "dependencies": {}
 }

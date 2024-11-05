@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: React组件通信方式
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 
 # React组件通信方式

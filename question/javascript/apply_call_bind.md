@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: apply、call、bind 比较
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 # apply、call、bind 比较
 

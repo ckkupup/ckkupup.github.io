@@ -184,4 +184,4 @@ export const downloadFileBase64List = async (data:FileBase64List,callback:Functi
 ## 总结
 经过上面的步骤,我们基本上已经了解了 Tauri 原生能力的相关知识,并在一个实际案例中实现了利用这些能力实现文件下载的操作,掌握了整个原生能力对接的流程。不过,Tauri 原生能力的范围有一定限制,如果需要实现一些更加强大和复杂的功能,我们还需要使用到 Tauri 的进程通信机制以及原生能力扩展功能。在后续的章节中,我们将通过实例一步步带你了解这些更高级的特性,让你能够充分发挥 Tauri 的潜力,构建出更加强大的桌面应用程序。
 
-源码：https://github.com/huangbohang/XTools/blob/feature/tauri/src/pages/imageSlicing/index.tsx
+源码：https://github.com/ckkupup/XTools/blob/feature/tauri/src/pages/imageSlicing/index.tsx

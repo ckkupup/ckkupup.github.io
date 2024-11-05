@@ -2,7 +2,7 @@
 outline: deep
 footer: false
 title: 关于我
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 
 # 关于我
@@ -22,6 +22,6 @@ titleTemplate: 黄博航的博客
 
 ::: danger 联系我
 
-- 微信：17308476649
-- 邮箱：hbh1092142160@163.com
+- 微信：15905150752
+- 邮箱：1171619583@qq.com
   :::

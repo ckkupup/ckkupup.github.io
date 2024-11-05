@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: JS垃圾回收机制
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 # JS垃圾回收机制
 

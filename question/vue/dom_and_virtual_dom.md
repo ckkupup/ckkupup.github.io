@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: 真实 DOM 和虚拟 DOM
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 
 # 真实 DOM 和虚拟 DOM

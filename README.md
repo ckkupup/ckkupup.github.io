@@ -1,7 +1,7 @@
-# huangbohang's Blog
+# ckkupup's Blog
 
 ## 一个写博客的地方
 
-[huangbohang.github.io](https://huangbohang.github.io/)
+[ckkupup.github.io](https://ckkupup.github.io/)
 
 

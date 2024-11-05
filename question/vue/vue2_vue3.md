@@ -1,7 +1,7 @@
 ---
 outline: deep
 title: Vue2 和 Vue3对比
-titleTemplate: 黄博航的博客
+titleTemplate: 程康康的博客
 ---
 
 # Vue2 和 Vue3对比

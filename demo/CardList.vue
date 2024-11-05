@@ -37,7 +37,7 @@
         <a
           @click.stop
           class="beautiful-button"
-          :href="`https://github.com/huangbohang/huangbohang.github.io/blob/main/public/demoPage/${activeItem.name}/index.html`"
+          :href="`https://github.com/ckkupup/ckkupup.github.io/blob/main/public/demoPage/${activeItem.name}/index.html`"
           target="_blank"
           >完整源码</a
         >
